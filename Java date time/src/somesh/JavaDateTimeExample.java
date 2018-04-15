@@ -33,7 +33,7 @@ public class JavaDateTimeExample {
 		calendar.setTimeInMillis(System.currentTimeMillis());
 		String timeString = simpleDateformatter.format(calendar.getTime());
 		System.out.println(timeString);
-		System.out.println("somesh");
+		System.out.println("somesh77");
 	}
 
 }
